@@ -99,9 +99,6 @@ platforms:
     - id: "zhihu"
       name: "知乎"
       expected_domain: "zhihu.com"
-    - id: "_36kr"
-      name: "36氪"
-      expected_domain: "36kr.com"
 
 
 
